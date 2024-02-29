@@ -1,2 +1,2 @@
 # pyProj1
-Learning to use API's in python
+Rock Paper Scissors game 
